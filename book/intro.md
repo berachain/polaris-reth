@@ -3,7 +3,7 @@ _Documentation for Reth users and developers._
 
 [![Telegram Chat][tg-badge]][tg-url]
 
-Reth (short for Rust Ethereum, [pronunciation](https://twitter.com/kelvinfichter/status/1597653609411268608)) is an **Ethereum full node implementation that is focused on being user-friendly, highly modular, as well as being fast and efficient.** 
+Reth (short for Rust Ethereum, [pronunciation](https://x.com/kelvinfichter/status/1597653609411268608)) is an **Ethereum full node implementation that is focused on being user-friendly, highly modular, as well as being fast and efficient.** 
 
 <img src="https://raw.githubusercontent.com/paradigmxyz/reth/main/assets/reth-alpha.png" style="border-radius: 20px">
 
